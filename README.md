@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:020617&height=140&text=%20Nithish here&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:020617&height=140&text=Nithish%20here&fontSize=40&fontColor=ffffff" />
 </p>
+
 
 ---
 
@@ -55,10 +56,14 @@ Users can create, store, and manage notes with AI-generated content, secured aut
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithish4196&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+## 🚀 GitHub Projects
+
+| Project Name | Link |
+|-------------|------------|------|
+| AI-Powered Notes Management Web Application | 🔗 https://github.com/Nithish4196/Ai-notes-manager |
+| Real-Time Object Counting on Factory Lines | 🔗 https://github.com/Nithish4196/DNN_PROJECT |
+| rodo-list | 🔗 https://github.com/Nithish4196/todo-website |
+
 
 ---
 
