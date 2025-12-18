@@ -59,10 +59,11 @@ Users can create, store, and manage notes with AI-generated content, secured aut
 ## 🚀 GitHub Projects
 
 | Project Name | Link |
-|-------------|------------|------|
-| AI-Powered Notes Management Web Application | 🔗 https://github.com/Nithish4196/Ai-notes-manager |
-| Real-Time Object Counting on Factory Lines | 🔗 https://github.com/Nithish4196/DNN_PROJECT |
-| rodo-list | 🔗 https://github.com/Nithish4196/todo-website |
+|--------------|------|
+| AI-Powered Notes Manager | 🔗 [GitHub](https://github.com/Nithish4196/Ai-notes-manager) |
+| Real-Time Object Counting on Factory Lines | 🔗 [GitHub](https://github.com/Nithish4196/DNN_PROJECT) |
+| Todo List Web App | 🔗 [GitHub](https://github.com/Nithish4196/todo-website) |
+
 
 
 ---
