@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:020617&height=140&text=Your%20Nithish&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:020617&height=140&text=%20Nithish here&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ I focus on writing clear code, understanding fundamentals, and learning through 
 ## 📂 Projects
 
 ### 🧠 Computer Vision
-- 📌 **Real-Time Object Counting on Factory Lines**  
+📌 **Real-Time Object Counting on Factory Lines**  
   Implemented an industrial-grade real-time object counting system to improve production monitoring by detecting and tracking moving objects on factory conveyor lines  
   🔧 *Python, YOLOv8, Norfair, OpenCV*
 
@@ -57,7 +57,7 @@ Users can create, store, and manage notes with AI-generated content, secured aut
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Nithish4196&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithish4196&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
